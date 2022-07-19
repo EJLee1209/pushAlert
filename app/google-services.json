@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847411198237",
+    "project_id": "pushalert-b35f8",
+    "storage_bucket": "pushalert-b35f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847411198237:android:88018312c37a1b8ab0c9f4",
+        "android_client_info": {
+          "package_name": "com.dldmswo1209.pushalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847411198237-fgb0bc9vf9i3i9rid59k5dfoc6rpm9qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByG-ZLclmpEo2YUpaS5tRgJYSQV8p32go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847411198237-fgb0bc9vf9i3i9rid59k5dfoc6rpm9qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
